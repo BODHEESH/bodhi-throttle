@@ -1,0 +1,29 @@
+{
+  "name": "bodhi-throttle",
+  "version": "1.0.1",
+  "description": "A lightweight, fast, and flexible debounce & throttle utility for JavaScript/TypeScript projects.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodheesh/bodhi-throttle.git"
+  },
+  "keywords": [
+    "debounce",
+    "throttle",
+    "utility",
+    "typescript",
+    "javascript",
+    "bodhi"
+  ],
+  "author": "bodheesh",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.0.13",
+    "typescript": "^5.8.3"
+  }
+}
